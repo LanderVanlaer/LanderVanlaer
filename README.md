@@ -46,9 +46,12 @@ The last few years I have also become more interested in Artificial Intelligence
 | :------: |---------------------|
 | <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />  | Java   |
 | <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> | JavaScript |
+| <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /> | TypeScript |
 | <img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> | Node.js |
 | <img alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /> | npm |
 | <img alt="Express.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> | Express.js |
+| <img alt="TypeORM" width="32px" src="https://avatars.githubusercontent.com/u/20165699?v=4" /> | TypeORM |
+| <img alt="Nestjs" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" /> | Nestjs |
 | <img alt="Discord.js" width="32px" src="https://discord.js.org/static/logo-square.png" /> | Discord.js |
 | <img alt="Pug.js" width="32px" src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" /> | Pug.js |
 | <img alt="EcmaScript 6" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" /> | EcmaScript 6 |
