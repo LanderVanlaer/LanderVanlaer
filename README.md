@@ -69,5 +69,5 @@ The last few years I have also become more interested in Artificial Intelligence
 
 ---
 
-<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanderVanlaer&hide_border=true&theme=dark&langs_count=6" />
-<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LanderVanlaer&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanderVanlaer&hide_border=true&langs_count=6" />
+<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LanderVanlaer&show_icons=true&hide_border=true&count_private=true" />
