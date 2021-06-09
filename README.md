@@ -18,7 +18,7 @@ At the age of thirteen I already started programming in [Scratch](https://scratc
 The last few years I have also become more interested in Artificial Intelligence, mathematics, algorithms, data models and data structures. That's why I plan to do a bachelor's degree in Artificial Intelligence.
 
 ### What am I working on?
-- A group work in which we have to make a website for a teacher / therapist | [Innermove](https://github.com/LanderVanlaer/groepsproject-innermove-6INF).
+<!-- - A group work in which we have to make a website for a teacher / therapist | [Innermove](https://github.com/LanderVanlaer/groepsproject-innermove-6INF). -->
 - My thesis from sixth grade, this is a webshop for cameras | [GigaCam](https://github.com/LanderVanlaer/webshop-gip-6INF)
 - A software development project, this is a role-playing game in Java | [RPG](https://github.com/LanderVanlaer/softwareontwikkeling-eindproject-informaticabeheer)
 
