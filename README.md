@@ -3,7 +3,8 @@
 
 # console.log("Hello World");
 ### I'm Lander Van laer - aka [LanderVanlaer](https://landervanlaer.me) 👋
-Student IT Management in the 6th grade (6INF) at the school GO! Atheneum Boom.
+<!--Student IT Management in the 6th grade (6INF) at the school GO! Atheneum Boom.-->
+Student [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence) at [Thomas More De Nayer](https://thomasmore.be).
 
 <br />
 
@@ -18,7 +19,13 @@ At the age of thirteen I already started programming in [Scratch](https://scratc
 The last few years I have also become more interested in Artificial Intelligence, mathematics, algorithms, data models and data structures. That's why I plan to do a bachelor's degree in Artificial Intelligence.
 
 ### What am I working on?
-<!-- - A group work in which we have to make a website for a teacher / therapist | [Innermove](https://github.com/LanderVanlaer/groepsproject-innermove-6INF). -->
+
+#### School projects
+##### [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence), [Thomas More De Nayer](https://thomasmore.be)
+###### 1AI1
+
+##### [IT Management](http://atheneumboom.be/informaticabeheer56/), [GO! Atheneum Boom](https[://ath](http://atheneumboom.be/informaticabeheer56/)eneumboom.be/)
+###### 6INF
 - My thesis from sixth grade, this is a webshop for cameras | [GigaCam](https://github.com/LanderVanlaer/webshop-gip-6INF)
 - A software development project, this is a role-playing game in Java | [RPG](https://github.com/LanderVanlaer/softwareontwikkeling-eindproject-informaticabeheer)
 
