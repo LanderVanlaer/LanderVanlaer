@@ -28,7 +28,7 @@ The last few years I have also become more interested in Artificial Intelligence
 ###### 1AI1
 - Nothing yet :)
 
-##### [IT Management](http://atheneumboom.be/informaticabeheer56/), [GO! Atheneum Boom](http://atheneumboom.be/informaticabeheer56/)
+##### [IT Management](http://atheneumboom.be/informaticabeheer56/), [GO! Atheneum Boom](http://atheneumboom.be)
 ###### 6INF
 - My thesis from sixth grade, this is a webshop for cameras | [GigaCam](https://github.com/LanderVanlaer/webshop-gip-6INF)
 - A software development project, this is a role-playing game in Java | [RPG](https://github.com/LanderVanlaer/softwareontwikkeling-eindproject-informaticabeheer)
