@@ -20,6 +20,10 @@ The last few years I have also become more interested in Artificial Intelligence
 
 <br>
 
+[![techrez.io resume](https://img.shields.io/badge/techrez.io%20resume-gray?style=for-the-badge)](https://techrez.io/resume/LanderVanlaer)
+
+<br>
+
 ### What am I working on?
 - Private projects
 
