@@ -25,17 +25,17 @@ The last few years I have also become more interested in Artificial Intelligence
 <br>
 
 ### What am I working on?
-- Private projects
-
-#### School projects:
-##### [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence), [Thomas More De Nayer](https://thomasmore.be)
-###### 1AI1
-- Nothing yet :)
-
-##### [IT Management](http://atheneumboom.be/informaticabeheer56/), [GO! Atheneum Boom](http://atheneumboom.be)
-###### 6INF
-- My thesis from sixth grade, this is a webshop for cameras | [GigaCam](https://github.com/LanderVanlaer/webshop-gip-6INF)
-- A software development project, this is a role-playing game in Java | [RPG](https://github.com/LanderVanlaer/softwareontwikkeling-eindproject-informaticabeheer)
+- Private projects:
+  - Some private repo's :)
+- School projects:
+  - [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence), [Thomas More De Nayer](https://thomasmore.be)
+    - 1AI1
+      - A project for _Practice Enterprise_. The [Microsoft To Do](https://todo.microsoft.com) integrated into a CLI, created in Node.js | [Microsoft To Do CLI
+](https://github.com/ms-to-do-cli)
+  - [IT Management](http://atheneumboom.be/informaticabeheer56/), [GO! Atheneum Boom](http://atheneumboom.be)
+    - 6INF
+      - My thesis from sixth grade, this is a webshop for cameras | [GigaCam](https://github.com/LanderVanlaer/webshop-gip-6INF)
+      - A software development project, this is a role-playing game in Java | [RPG](https://github.com/LanderVanlaer/softwareontwikkeling-eindproject-informaticabeheer)
 
 ### Connect with me:
 
