@@ -8,7 +8,7 @@ Student [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/
 
 <br />
 
-[![Website](https://img.shields.io/website?label=landervanlaer.com&style=for-the-badge&url=http://landervanlaer.com)](https://landervanlaer.com)
+[![Website](https://img.shields.io/website?label=landervanlaer.com&style=for-the-badge&url=http://www.landervanlaer.com)](http://www.landervanlaer.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderVanlaer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/LanderVanlaer&screen_name=LanderVanlaer)
 
 ## I'm a Developer!!
