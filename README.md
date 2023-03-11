@@ -56,52 +56,20 @@ The last few years I have also become more interested in Artificial Intelligence
 
 <br /><br />
 
-<details>
-<summary>:books: Programming languages and libraries</summary>
-<br />
+# :books: Programming Languages and librararies
 
-| Logo | Language / Library  |
-| :------: |---------------------|
-| <img alt="Java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />  | Java   |
-| <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> | JavaScript |
-| <img alt="TypeScript" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" /> | TypeScript |
-| <img alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> | Node.js |
-| <img alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /> | npm |
-| <img alt="Express.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> | Express.js |
-| <img alt="TypeORM" width="32px" src="https://avatars.githubusercontent.com/u/20165699?v=4" /> | TypeORM |
-| <img alt="Nestjs" width="32px" src="https://raw.githubusercontent.com/github/explore/master/topics/nestjs/nestjs.png" /> | Nestjs |
-| <img alt="Discord.js" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord-js/discord-js.png" /> | Discord.js |
-| <img alt="Pug.js" width="32px" src="https://camo.githubusercontent.com/2eb688a747805c9acd144faf728c8a30f86fc4ca5fb39e6528232f0372151364/68747470733a2f2f63646e2e7261776769742e636f6d2f7075676a732f7075672d6c6f676f2f656563343336636565386664396431373236643738333963626539396431663639343639326330632f5356472f7075672d66696e616c2d6c6f676f2d5f2d636f6c6f75722d3132382e737667" /> | Pug.js |
-| <img alt="EcmaScript 6" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" /> | EcmaScript 6 |
-| <img alt="JSON" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" /> | JSON |
-| <img alt="PHP" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> | PHP |
-| <img alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> | HTML5 |
-| <img alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> | CSS3 |
-| <img alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> | Sass |
-| <img alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> | SQL |
-| <img alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> | MySQL |
-| <img alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> | Git |
-| <img alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> | GitHub |
-| <img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> | Terminal |
-| <img alt="Strapi" width="32px" src="https://assets.strapi.io/uploads/Strapi_Logo_dark_ff2db7a0fb.png" /> | Strapi |
-| <img alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> | React |
-| <img alt="Next.js" width="32px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png" /> | Next.js |
-| <img alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/python/python.png" /> | Python |
-</details>
+[![My Skills - web](https://skillicons.dev/icons?perline=18&i=nodejs,js,ts,css,tailwind,sass,html,express,jest,nestjs,nextjs,pug,svelte,react,php)](https://skillicons.dev)
+[![My Skills - extra](https://skillicons.dev/icons?perline=18&i=idea,docker,git,github,gitlab,postman,mysql,powershell,c,cpp,qt,postgres,java,py,flask,md)](https://skillicons.dev)
 
 
 <br />
 
 ---
 
-
-<a href="https://app.daily.dev/LanderVanlaer" target="_blank">
-    <img src="https://api.daily.dev/devcards/4968151163b749518a87ce180540ed41.png?r=7xu" width="275" alt="Lander Van laer's Dev Card"/>
-</a>
-
-<br />
-
----
-
-<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanderVanlaer&hide_border=true&langs_count=6" />
-<img align="left" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LanderVanlaer&show_icons=true&hide_border=true&count_private=true" />
+<div style="display: flex">
+    <a style="width: 26%" href="https://app.daily.dev/LanderVanlaer" target="_blank">
+      <img src="https://api.daily.dev/devcards/4968151163b749518a87ce180540ed41.png?r=7xu" width="275" alt="Lander Van laer's Dev Card"/>
+    </a>
+    <img style="width: 34%" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanderVanlaer&hide_border=true&langs_count=6" />
+    <img style="width: 37%" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LanderVanlaer&show_icons=true&hide_border=true&count_private=true" />
+</div>
