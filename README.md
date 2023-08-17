@@ -11,6 +11,8 @@ Student [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/
 [![Website](https://img.shields.io/website?label=landervanlaer.com&style=for-the-badge&url=http://www.landervanlaer.com)](http://www.landervanlaer.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/LanderVanlaer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/LanderVanlaer&screen_name=LanderVanlaer)
 
+[![Codewars](https://www.codewars.com/users/LanderVanlaer/badges/large)](https://www.codewars.com/users/LanderVanlaer)
+
 ## I'm a Developer!!
 In my spare time and at school I am mainly busy with backend software development and scripting in front-end, for this I mainly use the languages Java & Javascript.
 
