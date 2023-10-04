@@ -32,6 +32,7 @@ The last few years I have also become more interested in Artificial Intelligence
 - School projects:
   - [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence), [Thomas More De Nayer](https://thomasmore.be)
     - 2AI
+      - A project for _Python For AI_. Research and creating of first AI models, made in Jupyter Notebooks | [repository](https://github.com/LanderVanlaer/python-for-ai-lab-project-2AI/tree/main) [nbviewer](https://nbviewer.org/github/LanderVanlaer/python-for-ai-lab-project-2AI/tree/main/)
       - A project for _Python_. A Monopoly banking application, made with Python, Flask and Svelte (front-end) | [Moneypoly](https://github.com/Python-Project-Thomas-More-year-2)
     - 1AI1
       - A project for _Practice Enterprise_. The [Microsoft To Do](https://todo.microsoft.com) integrated into a CLI, created in Node.js | [Microsoft To Do CLI
