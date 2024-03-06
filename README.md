@@ -76,7 +76,6 @@ and data structures. That's why I plan to do a bachelor's degree in Artificial I
 [<img align="left" alt="landervanlaer.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://landervanlaer.com)
 [<img align="left" alt="LanderVanlaer | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/LanderVanlaer)
 [<img align="left" alt="lander_van_laer | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lander_van_laer/)
-[<img align="left" alt="LanderVanlaer | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" />](https://steamcommunity.com/id/LanderVanlaer)
 [<img align="left" alt="LanderVanlaer | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/lander.vanlaer)
 [<img align="left" alt="LanderVanlaer | PayPal" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/paypal.svg" />](https://paypal.me/LanderVanlaer)
 
