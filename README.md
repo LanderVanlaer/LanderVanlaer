@@ -77,9 +77,7 @@ and data structures. That's why I plan to do a bachelor's degree in Artificial I
 ---
 
 <div style="display: flex">
-    <a style="width: 26%" href="https://app.daily.dev/LanderVanlaer" target="_blank">
-      <img src="https://api.daily.dev/devcards/4968151163b749518a87ce180540ed41.png?r=7xu" width="275" alt="Lander Van laer's Dev Card"/>
-    </a>
+    <a href="https://app.daily.dev/landervanlaer"><img src="https://api.daily.dev/devcards/v2/YXfB7ebzp.png?type=default&r=tly" width="356" alt="Lander Van laer's Dev Card"/></a>
     <img style="width: 34%" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LanderVanlaer&hide_border=true&langs_count=6" />
     <img style="width: 37%" valign="top" alt="Lander Van laer's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LanderVanlaer&show_icons=true&hide_border=true&count_private=true" />
 </div>
