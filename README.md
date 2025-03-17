@@ -39,7 +39,7 @@ and data structures. That's why I plan to do a bachelor's degree in Artificial I
 
 # Resume
 
-[rxresu.me](https://rxresu.me/landervanlaer/2024-january)
+<https://rxresu.me/landervanlaer/cv>
 
 <br>
 
