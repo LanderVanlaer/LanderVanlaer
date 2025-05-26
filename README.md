@@ -1,49 +1,41 @@
 <!-- Made by codeSTACKr https://www.youtube.com/watch?v=ECuqb5Tv9qI -->
 <!-- https://github.com/codeSTACKr/codeSTACKr -->
 
-# console.log("Hello World");
-
-### I'm Lander Van laer - aka [LanderVanlaer](http://landervanlaer.com) 👋
+# I'm Lander Van laer👋
 
 <!--Student IT Management in the 6th grade (6INF) at the school GO! Atheneum Boom.-->
-Student [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence)
+Graduate [Applied Artificial Intelligence](https://www.thomasmore.be/opleidingen/professionele-bachelor/elektronica-ict/applied-artificial-intelligence)
 at [Thomas More De Nayer](https://thomasmore.be).
 
 <br />
 
 [![Website](https://img.shields.io/website?label=landervanlaer.com&style=for-the-badge&url=http://www.landervanlaer.com)](http://www.landervanlaer.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/LanderVanlaer?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/LanderVanlaer&screen_name=LanderVanlaer)
-
 
 [![Codewars](https://www.codewars.com/users/LanderVanlaer/badges/large)](https://www.codewars.com/users/LanderVanlaer)
 
-## Badges
+# Badges
 
 <a href="https://www.credly.com/badges/56347964-836d-414e-9f3f-36697752a37a/public_url">
     <img src="resources/aws-certified-solutions-architect-associate.png" width="150" height="150" alt="AWS Certified Solutions Architect Associate bage">
 </a>
 
-## I'm a Developer!!
+# I'm a Developer!!
 
-In my spare time and at school I am mainly busy with backend software development and scripting in front-end, for this I
-mainly use the languages Java & Javascript.
+I am a passionate AI Developer with a strong drive for innovation and technology. My journey in programming began at the age of thirteen, evolving into a career focused on AI development and backend engineering.
 
-At the age of thirteen I already started programming in [Scratch](https://scratch.mit.edu/) (click & drag programming),
-a year later I coded a [Micro:bit](https://microbit.org/) in JavaScript and the following years I worked as full stack
-developer. Now I work more in back-end, more specifically in REST API development.
+With interests in artificial intelligence, data models, and algorithms, I specialize in building scalable and efficient solutions to complex problems. My ability to leverage cutting-edge technologies allows me to create high-performance systems that drive innovation.
 
-The last few years I have also become more interested in Artificial Intelligence, mathematics, algorithms, data models
-and data structures. That's why I plan to do a bachelor's degree in Artificial Intelligence.
+Over the past year, I have worked extensively with diagnostics, utilizing OpenTelemetry in .NET to enhance observability and performance monitoring. Gained experience in Infrastructure as Code with Pulumi, optimizing cloud deployments and infrastructure management. And additionally, I have been actively involved in developing chatbots, integrating AI-driven solutions to improve user interactions and automation.
 
 <br>
 
-# Resume
+## [Resume](https://rxresu.me/landervanlaer/cv)
 
-<https://rxresu.me/landervanlaer/cv>
+[rxresu.me/landervanlaer/cv](https://rxresu.me/landervanlaer/cv)
 
 <br>
 
-# What am I working on?
+## What am I working on?
 
 - Private projects:
     - Some private repo's :)
@@ -68,8 +60,8 @@ and data structures. That's why I plan to do a bachelor's degree in Artificial I
 
 # :books: Programming Languages and librararies
 
-[![My Skills - web](https://skillicons.dev/icons?perline=18&i=nodejs,js,ts,css,tailwind,sass,html,express,jest,nestjs,nextjs,pug,svelte,react,php)](https://skillicons.dev)
-[![My Skills - extra](https://skillicons.dev/icons?perline=18&i=idea,docker,git,github,gitlab,postman,mysql,powershell,c,cpp,qt,postgres,java,py,flask,md)](https://skillicons.dev)
+![My Skills - web](https://skillicons.dev/icons?perline=18&i=nodejs,js,ts,css,tailwind,sass,html,express,jest,nestjs,nextjs,pug,svelte,react,php,dotnet)
+![My Skills - extra](https://skillicons.dev/icons?perline=18&i=idea,docker,git,github,gitlab,postman,mysql,powershell,c,cpp,qt,postgres,java,py,flask,md)
 
 
 <br />
